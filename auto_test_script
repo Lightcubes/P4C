@@ -1,0 +1,8 @@
+#!/bin/bash
+#auto_test_script
+date
+for ((i=0;i<100;i=i+1)); do
+#	echo $i
+	./bin.release/p4c
+done
+date
