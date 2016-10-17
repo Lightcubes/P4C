@@ -26,7 +26,6 @@
  * Oct-7-2016. Stress testing and refine (./auto_test_script)
  *	       Performance testing and refine (please refer to linux_applayertest_summary_report.pdf)
  *	       Document (./linux_applayertest_summary_report.pdf)
- *	       Submit :)
  *=========================================================================================== 
  */
 
